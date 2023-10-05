@@ -1,0 +1,10 @@
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'The Great Gatsby', 'F. Scott Fitzgerald', 1925, '978-0743273565', 10.99);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'To Kill a Mockingbird', 'Harper Lee', 1960, '978-0061120084', 12.50);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, '1984', 'George Orwell', 1949, '978-0451524935', 9.99);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'Pride and Prejudice', 'Jane Austen', 1813, '978-0141439518', 7.25);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'The Catcher in the Rye', 'J.D. Salinger', 1951, '978-0316769488', 11.75);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'The Hobbit', 'J.R.R. Tolkien', 1937, '978-0547928227', 13.99);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'Harry Potter and the Sorcerer''s Stone', 'J.K. Rowling', 1997, '978-0590353427', 15.25);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'The Lord of the Rings', 'J.R.R. Tolkien', 1954, '978-0618640157', 25.00);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'The Da Vinci Code', 'Dan Brown', 2003, '978-0307474278', 14.50);
+INSERT INTO BOOK (id, title, author, year_published, isbn, price) VALUES (hibernate_sequence.nextval, 'The Hunger Games', 'Suzanne Collins', 2008, '978-0439023481', 9.95);
