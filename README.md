@@ -18,7 +18,7 @@ Key Features:
 
 Lombok for Streamlined Development:
 
-This application leverages Lombok, a popular Java library, to reduce boilerplate code. With Lombok, you can focus on writing clean, concise code without the need for repetitive getter and setter methods, toString(), equals(), and hashCode() implementations. This results in more readable and maintainable code, allowing developers to be more productive.
+    This application leverages Lombok, a popular Java library, to reduce boilerplate code. With Lombok, you can focus on writing clean, concise code without the need for repetitive getter and setter methods, toString(), equals(), and hashCode() implementations. This results in more readable and maintainable code, allowing developers to be more productive.
 
 Usage:
 
