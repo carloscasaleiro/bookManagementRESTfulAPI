@@ -84,5 +84,5 @@ public class BookController {
     public List<Book> getBooksByAuthor(@PathVariable String author) {
         return bookRepository.findByAuthor(author);
     }
-    //curl http://localhost:5000/books/{author}
+    //curl http://localhost:5000/books/J.K.%20Rowling
 }
